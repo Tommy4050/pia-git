@@ -9,3 +9,5 @@ Módosítás a task2-ben
 Módosítva a githubon
 
 Kiss Tamás Ferenc
+
+ez en voltam
