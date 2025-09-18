@@ -5,3 +5,5 @@ Módosítás a task1 ágban
 
 Módosítás a masterben
 Módosítás a task2-ben
+
+Módosítva a githubon
